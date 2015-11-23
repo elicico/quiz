@@ -1,0 +1,74 @@
+{
+  "item1": {
+    "question": "E' necessario un cambiamento radicale nella società?",
+    "choices": [
+      { "a": "si, la società va cambiata perché le persone hanno troppa libertà." },
+      { "b": "si, questo mondo nel quale si manifestano ancora violenza e discriminazione va cambiato." },
+      { "c": "no, ognuno vive la vita che si merita di vivere" }
+    ]
+  },
+  "item2": {
+    "question": "Nei grandi cambiamenti sociali è sempre necessaria la violenza?",
+    "choices": [
+      { "a": "la violenza nei grandi cambiamenti sociali è imprescindibile, è sempre stato così." },
+      { "b": "no, sviluppare una metodologia nonviolenta per cambiare il sociale è una strada possibile, ma impegnativa." },
+      { "c": "la violenza è necessaria per arginare le pretese di chi vuole ottenere i diritti che non gli corrispondono e per evitare che la società degeneri." }
+    ]
+  },
+  "item3": {
+    "question": "Cosa pensi delle diversità culturali e personali?",
+    "choices": [
+      { "a": "chiunque è libero di credere e pensare quello che vuole se non tenta di imporre quello che crede con la violenza." },
+      { "b": "le diversità personali e culturali sono deleterie, si dovrebbe uniformare tutto sotto una sola concezione." },
+      { "c": "le diversità personali e culturali sono fonte di comune accrescimento, quando non generano violenza e discriminazione." }
+    ]
+  },
+  "item4": {
+    "question": "Indipendentemente dall'ordine esposto, quale di questi insiemi di caratteristiche ti sembra più adeguato?",
+    "choices": [
+      { "a": "salute, intelligenza, solidarietà, risolutezza, voglia di apprendere." },
+      { "b": "bontà, simpatia, salute, comprensione e voglia di apprendere." },
+      { "c": "risolutezza, intelligenza, coraggio, senso pratico, autorevolezza. " }
+    ]
+  },
+  "item5": {
+    "question": "Quando è che ti senti bene con te stesso?",
+    "choices": [
+      { "a": "quando mi sento tranquillo e non sono oppresso dalle difficoltà." },
+      { "b": "quando realizzo i miei scopi." },
+      { "c": "chi fa da sè fa per tre." }
+    ]
+  },
+  "item6": {
+    "question": "Quale di queste massime ti risuona di più?",
+    "choices": [
+      { "a": "vivi e lascia vivere" },
+      { "b": "quando tratti gli altri come vuoi essere trattato ti liberi." },
+      { "c": "no, ognuno vive la vita che si merita di vivere" }
+    ]
+  },
+  "item7": {
+    "question": "Hai mai avuto almeno una di queste esperienze? esperienze extracorporee, premonizioni, deja vu,..? ",
+    "choices": [
+      { "a": "si, esperienze extracorporee." },
+      { "b": "no, mai." },
+      { "c": "si, solo del tipo premonizioni, deja vu o altro..." }
+    ]
+  },
+  "item8": {
+    "question": "Pensi che esistano verità indiscutibili?",
+    "choices": [
+      { "a": "si, ci sono cose che si devono accettare e non possono essere discusse." },
+      { "b": "no, la riflessione e la discussione su ciò che è stabilito sono la molla dell’evoluzione umana." },
+      { "c": "le verità sono stabilite da chi ha intelligenza e potere per imporle, il resto non conta." }
+    ]
+  },
+  "item9": {
+    "question": "Cosa credi che succeda dopo la morte?",
+    "choices": [
+      { "a": "tutto finisce, ma quello che uno ha fatto in vita può lasciare il segno." },
+      { "b": "credo nella possibilità di una continuità dopo la morte, il tema va preso seriamente." },
+      { "c": "non me ne occupo e non ho le idee chiare su questo tema." }
+    ]
+  }
+}
