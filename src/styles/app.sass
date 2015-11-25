@@ -1,0 +1,57 @@
+.app
+  position: relative
+  padding: 10% 5%
+
+  &__quiz
+
+    &__item
+      padding: 5% 3%
+      margin-bottom: 5%
+      background-color: #fff
+      border-radius: 5px
+
+      &__question
+        color: #05566c
+        font-weight: 600
+        padding-left: 2%
+
+      &__choices
+        padding-top: 1%
+
+        &__input
+          color: #032933
+          padding: 1% 2%
+          margin-top: 1%
+          border-radius: 5px
+          background-color: #fff
+          transition: all .3s linear
+
+          &:hover
+            background-color: #b7dee9
+
+          &:focus
+            background-color: #3b7585
+            color: #e4f7fc
+
+          &--active
+            background-color: #3b7585
+            color: #e4f7fc
+
+    &__button
+      color: #337a8e
+      background-color: #fff
+      padding: 2%
+      display: block
+      text-align: center
+      margin: 2% auto
+      width: 25%
+      text-transform: uppercase
+      font-weight: 600
+      font-size: 1.5em
+      border-radius: 5px
+      cursor: pointer
+      transition: all .3s linear
+
+      &:hover
+        background-color: #0e3844
+        color: #e4f7fc
