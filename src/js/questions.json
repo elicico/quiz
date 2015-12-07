@@ -36,7 +36,7 @@
     "choices": [
       { "a": "quando mi sento tranquillo e non sono oppresso dalle difficoltà." },
       { "b": "quando realizzo i miei scopi." },
-      { "c": "chi fa da sè fa per tre." }
+      { "c": "quando coincidono in me quello che penso, quello che sento e quello che faccio." }
     ]
   },
   "item6": {
@@ -44,7 +44,7 @@
     "choices": [
       { "a": "vivi e lascia vivere" },
       { "b": "quando tratti gli altri come vuoi essere trattato ti liberi." },
-      { "c": "no, ognuno vive la vita che si merita di vivere" }
+      { "c": "chi fa da sè fa per tre." }
     ]
   },
   "item7": {
